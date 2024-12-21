@@ -1,4 +1,5 @@
-# .NET Samples
+
+
 
 ![Markdownlint](https://github.com/dotnet/samples/workflows/Markdownlint/badge.svg) [![Snippets 5000](https://github.com/dotnet/samples/actions/workflows/build-validation.yml/badge.svg)](https://github.com/dotnet/samples/actions/workflows/build-validation.yml) [![target supported version](https://github.com/dotnet/samples/actions/workflows/version-sweep.yml/badge.svg)](https://github.com/dotnet/samples/actions/workflows/version-sweep.yml)
 
@@ -21,6 +22,9 @@ We are working toward having a CI system in place for all code. When you make an
 project. Ideally, add tests for correctness on samples as well.
 
 ## Building a sample
+## something changed
+:wq!
+clear
 
 Build any .NET Core sample using the .NET Core CLI, which is installed with [the .NET Core SDK](https://www.microsoft.com/net/download). Then run
 these commands from the CLI in the directory of any sample:
