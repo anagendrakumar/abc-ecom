@@ -25,6 +25,8 @@ project. Ideally, add tests for correctness on samples as well.
 ## something changed
 :wq!
 clear
+## changed
+:wq!
 
 Build any .NET Core sample using the .NET Core CLI, which is installed with [the .NET Core SDK](https://www.microsoft.com/net/download). Then run
 these commands from the CLI in the directory of any sample:
